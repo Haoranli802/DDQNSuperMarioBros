@@ -1,0 +1,68 @@
+2023-05-25 21:14:16 - INFO - 
+  训练参数：
+     训练模式：True
+     训练轮次：50
+     执行动作：0
+     exploration_max: 1.0
+     exploration_min: 0.02
+     exploration_decay: 0.999999
+     lr: 0.0001
+     batch size: 32
+     max_memory_size: 3000
+     gamma: 0.95
+     copy_step: 5000
+     save_path: ./runs/exp0
+     test_model_dir: runs/exp3
+     desc: 
+     render_mode: 0
+
+2023-05-25 21:14:53 - INFO - Episode 2, total score=244, average score=618.50, exploration_rate=0.9996, 每步耗时：0.0001, 训练耗时：0.0775
+2023-05-25 21:16:48 - INFO - Episode 3, total score=821, average score=686.00, exploration_rate=0.9983, 每步耗时：0.0001, 训练耗时：0.0758
+2023-05-25 21:16:57 - INFO - Episode 4, total score=624, average score=670.50, exploration_rate=0.9982, 每步耗时：0.0001, 训练耗时：0.0755
+2023-05-25 21:17:16 - INFO - Episode 5, total score=625, average score=661.40, exploration_rate=0.9980, 每步耗时：0.0001, 训练耗时：0.0778
+2023-05-25 21:17:29 - INFO - Episode 6, total score=638, average score=657.50, exploration_rate=0.9979, 每步耗时：0.0001, 训练耗时：0.0751
+2023-05-25 21:17:33 - INFO - Episode 7, total score=237, average score=597.43, exploration_rate=0.9978, 每步耗时：0.0001, 训练耗时：0.0770
+2023-05-25 21:17:42 - INFO - Episode 8, total score=615, average score=599.62, exploration_rate=0.9977, 每步耗时：0.0000, 训练耗时：0.0756
+2023-05-25 21:20:46 - INFO - Episode 9, total score=443, average score=582.22, exploration_rate=0.9957, 每步耗时：0.0001, 训练耗时：0.0782
+2023-05-25 21:20:59 - INFO - Episode 10, total score=637, average score=587.70, exploration_rate=0.9956, 每步耗时：0.0000, 训练耗时：0.0745
+2023-05-25 21:21:08 - INFO - Episode 11, total score=618, average score=590.45, exploration_rate=0.9955, 每步耗时：0.0001, 训练耗时：0.0755
+2023-05-25 21:22:04 - INFO - Episode 12, total score=955, average score=620.83, exploration_rate=0.9949, 每步耗时：0.0001, 训练耗时：0.0757
+2023-05-25 21:22:18 - INFO - Episode 13, total score=637, average score=622.08, exploration_rate=0.9947, 每步耗时：0.0001, 训练耗时：0.0759
+2023-05-25 21:22:25 - INFO - Episode 14, total score=617, average score=621.71, exploration_rate=0.9946, 每步耗时：0.0001, 训练耗时：0.0751
+2023-05-25 21:23:35 - INFO - Episode 15, total score=949, average score=643.53, exploration_rate=0.9939, 每步耗时：0.0001, 训练耗时：0.0804
+2023-05-25 21:24:56 - INFO - Episode 16, total score=1287, average score=683.75, exploration_rate=0.9930, 每步耗时：0.0001, 训练耗时：0.0772
+2023-05-25 21:24:59 - INFO - Episode 17, total score=239, average score=657.59, exploration_rate=0.9930, 每步耗时：0.0001, 训练耗时：0.0812
+2023-05-25 21:25:03 - INFO - Episode 18, total score=248, average score=634.83, exploration_rate=0.9929, 每步耗时：0.0001, 训练耗时：0.0915
+2023-05-25 21:25:12 - INFO - Episode 19, total score=651, average score=635.68, exploration_rate=0.9929, 每步耗时：0.0001, 训练耗时：0.0898
+2023-05-25 21:25:22 - INFO - Episode 20, total score=608, average score=634.30, exploration_rate=0.9928, 每步耗时：0.0001, 训练耗时：0.0870
+2023-05-25 21:25:25 - INFO - Episode 21, total score=238, average score=615.43, exploration_rate=0.9927, 每步耗时：0.0001, 训练耗时：0.0839
+2023-05-25 21:25:40 - INFO - Episode 22, total score=639, average score=616.50, exploration_rate=0.9926, 每步耗时：0.0002, 训练耗时：0.0877
+2023-05-25 21:25:50 - INFO - Episode 23, total score=632, average score=617.17, exploration_rate=0.9925, 每步耗时：0.0001, 训练耗时：0.0845
+2023-05-25 21:26:09 - INFO - Episode 24, total score=1427, average score=650.92, exploration_rate=0.9923, 每步耗时：0.0001, 训练耗时：0.0791
+2023-05-25 21:26:30 - INFO - Episode 25, total score=758, average score=655.20, exploration_rate=0.9921, 每步耗时：0.0001, 训练耗时：0.0856
+2023-05-25 21:26:44 - INFO - Episode 26, total score=595, average score=652.88, exploration_rate=0.9919, 每步耗时：0.0001, 训练耗时：0.0811
+2023-05-25 21:27:00 - INFO - Episode 27, total score=579, average score=650.15, exploration_rate=0.9918, 每步耗时：0.0001, 训练耗时：0.0807
+2023-05-25 21:27:19 - INFO - Episode 28, total score=625, average score=649.25, exploration_rate=0.9916, 每步耗时：0.0001, 训练耗时：0.0779
+2023-05-25 21:27:23 - INFO - Episode 29, total score=231, average score=634.83, exploration_rate=0.9915, 每步耗时：0.0001, 训练耗时：0.0792
+2023-05-25 21:27:58 - INFO - Episode 30, total score=733, average score=638.10, exploration_rate=0.9911, 每步耗时：0.0001, 训练耗时：0.0772
+2023-05-25 21:28:01 - INFO - Episode 31, total score=249, average score=625.55, exploration_rate=0.9911, 每步耗时：0.0001, 训练耗时：0.0773
+2023-05-25 21:28:12 - INFO - Episode 32, total score=632, average score=625.75, exploration_rate=0.9910, 每步耗时：0.0001, 训练耗时：0.0891
+2023-05-25 21:28:27 - INFO - Episode 33, total score=635, average score=626.03, exploration_rate=0.9909, 每步耗时：0.0001, 训练耗时：0.0807
+2023-05-25 21:28:58 - INFO - Episode 34, total score=775, average score=630.41, exploration_rate=0.9905, 每步耗时：0.0001, 训练耗时：0.0765
+2023-05-25 21:29:02 - INFO - Episode 35, total score=223, average score=618.77, exploration_rate=0.9905, 每步耗时：0.0001, 训练耗时：0.0768
+2023-05-25 21:29:55 - INFO - Episode 36, total score=1624, average score=646.69, exploration_rate=0.9899, 每步耗时：0.0001, 训练耗时：0.0771
+2023-05-25 21:29:58 - INFO - Episode 37, total score=251, average score=636.00, exploration_rate=0.9899, 每步耗时：0.0000, 训练耗时：0.0772
+2023-05-25 21:30:05 - INFO - Episode 38, total score=626, average score=635.74, exploration_rate=0.9898, 每步耗时：0.0001, 训练耗时：0.0756
+2023-05-25 21:30:15 - INFO - Episode 39, total score=595, average score=634.69, exploration_rate=0.9897, 每步耗时：0.0001, 训练耗时：0.0769
+2023-05-25 21:30:29 - INFO - Episode 40, total score=600, average score=633.83, exploration_rate=0.9895, 每步耗时：0.0001, 训练耗时：0.0751
+2023-05-25 21:30:52 - INFO - Episode 41, total score=760, average score=636.90, exploration_rate=0.9893, 每步耗时：0.0001, 训练耗时：0.0763
+2023-05-25 21:31:05 - INFO - Episode 42, total score=639, average score=636.95, exploration_rate=0.9891, 每步耗时：0.0001, 训练耗时：0.0752
+2023-05-25 21:31:08 - INFO - Episode 43, total score=233, average score=627.56, exploration_rate=0.9891, 每步耗时：0.0001, 训练耗时：0.0773
+2023-05-25 21:31:17 - INFO - Episode 44, total score=627, average score=627.55, exploration_rate=0.9890, 每步耗时：0.0001, 训练耗时：0.0756
+2023-05-25 21:32:14 - INFO - Episode 45, total score=725, average score=629.71, exploration_rate=0.9884, 每步耗时：0.0001, 训练耗时：0.0818
+2023-05-25 21:32:34 - INFO - Episode 46, total score=623, average score=629.57, exploration_rate=0.9882, 每步耗时：0.0001, 训练耗时：0.0757
+2023-05-25 21:32:48 - INFO - Episode 47, total score=636, average score=629.70, exploration_rate=0.9880, 每步耗时：0.0001, 训练耗时：0.0771
+2023-05-25 21:32:52 - INFO - Episode 48, total score=230, average score=621.38, exploration_rate=0.9880, 每步耗时：0.0001, 训练耗时：0.0758
+2023-05-25 21:32:55 - INFO - Episode 49, total score=240, average score=613.59, exploration_rate=0.9880, 每步耗时：0.0001, 训练耗时：0.0770
+2023-05-25 21:33:59 - INFO - Episode 50, total score=934, average score=620.00, exploration_rate=0.9873, 每步耗时：0.0001, 训练耗时：0.0792
+2023-05-25 21:33:59 - INFO - Episode 50, total score = 934, average score = 620.0, exploration_rate = 0.9872845271219398

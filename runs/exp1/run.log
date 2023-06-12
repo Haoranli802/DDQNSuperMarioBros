@@ -1,0 +1,20 @@
+2023-05-25 21:58:03 - INFO - 
+  训练参数：
+     训练模式：False
+     训练轮次：50
+     执行动作：0
+     exploration_max: 1.0
+     exploration_min: 0.02
+     exploration_decay: 0.999999
+     lr: 0.0001
+     batch size: 32
+     max_memory_size: 3000
+     gamma: 0.95
+     copy_step: 5000
+     save_path: ./runs/exp1
+     test_model_dir: runs/exp0
+     desc: 
+     render_mode: 0
+
+2023-05-25 21:58:09 - INFO - Episode 2, total score=239, average score=622.00, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-25 21:58:11 - INFO - Episode 3, total score=623, average score=622.33, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000

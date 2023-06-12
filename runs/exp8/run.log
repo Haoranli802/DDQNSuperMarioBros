@@ -1,0 +1,18 @@
+2023-05-27 22:15:13 - INFO - 
+  训练参数：
+     训练模式：False
+     训练轮次：50
+     执行动作：0
+     exploration_max: 1.0
+     exploration_min: 0.02
+     exploration_decay: 0.999999
+     lr: 0.0001
+     batch size: 32
+     max_memory_size: 3000
+     gamma: 0.95
+     copy_step: 5000
+     save_path: ./runs/exp8
+     test_model_dir: runs/exp3
+     desc: 
+     render_mode: 0
+

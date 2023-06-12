@@ -1,0 +1,26 @@
+2023-05-27 16:24:09 - INFO - 
+  训练参数：
+     训练模式：False
+     训练轮次：50
+     执行动作：0
+     exploration_max: 1.0
+     exploration_min: 0.02
+     exploration_decay: 0.999999
+     lr: 0.0001
+     batch size: 32
+     max_memory_size: 3000
+     gamma: 0.95
+     copy_step: 5000
+     save_path: ./runs/exp5
+     test_model_dir: runs/exp3
+     desc: 
+     render_mode: 0
+
+2023-05-27 16:24:11 - INFO - Episode 2, total score=233, average score=233.50, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:13 - INFO - Episode 3, total score=609, average score=358.67, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:28 - INFO - Episode 4, total score=548, average score=406.00, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:29 - INFO - Episode 5, total score=617, average score=448.20, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:30 - INFO - Episode 6, total score=590, average score=471.83, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:31 - INFO - Episode 7, total score=238, average score=438.43, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:32 - INFO - Episode 8, total score=624, average score=461.62, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000
+2023-05-27 16:24:40 - INFO - Episode 9, total score=959, average score=516.89, exploration_rate=1.0000, 每步耗时：0.0001, 训练耗时：0.0000

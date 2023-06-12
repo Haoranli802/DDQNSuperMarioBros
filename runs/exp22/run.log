@@ -1,0 +1,33 @@
+2023-05-30 15:23:40 - INFO - 
+  训练参数：
+     训练模式：False
+     训练轮次：50
+     执行动作：1
+     exploration_max: 0.02
+     exploration_min: 0.02
+     exploration_decay: 0.999
+     lr: 0.00025
+     batch size: 64
+     max_memory_size: 50000
+     gamma: 0.9
+     copy_step: 5000
+     save_path: ./runs/exp22
+     test_model_dir: runs/exp21
+     desc: 
+     render_mode: 0
+
+2023-05-30 15:23:43 - INFO - Episode 2, total score=688, average score=643.50, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:44 - INFO - Episode 3, total score=688, average score=658.33, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:44 - INFO - Episode 4, total score=688, average score=665.75, exploration_rate=0.0200, 每步耗时：0.0012, 训练耗时：0.0000
+2023-05-30 15:23:45 - INFO - Episode 5, total score=688, average score=670.20, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:46 - INFO - Episode 6, total score=558, average score=651.50, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:47 - INFO - Episode 7, total score=688, average score=656.71, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:48 - INFO - Episode 8, total score=688, average score=660.62, exploration_rate=0.0200, 每步耗时：0.0012, 训练耗时：0.0000
+2023-05-30 15:23:49 - INFO - Episode 9, total score=849, average score=681.56, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:50 - INFO - Episode 10, total score=688, average score=682.20, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:51 - INFO - Episode 11, total score=688, average score=682.73, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:52 - INFO - Episode 12, total score=688, average score=683.17, exploration_rate=0.0200, 每步耗时：0.0014, 训练耗时：0.0000
+2023-05-30 15:23:53 - INFO - Episode 13, total score=688, average score=683.54, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:54 - INFO - Episode 14, total score=557, average score=674.50, exploration_rate=0.0200, 每步耗时：0.0012, 训练耗时：0.0000
+2023-05-30 15:23:55 - INFO - Episode 15, total score=688, average score=675.40, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
+2023-05-30 15:23:55 - INFO - Episode 16, total score=249, average score=648.75, exploration_rate=0.0200, 每步耗时：0.0013, 训练耗时：0.0000
