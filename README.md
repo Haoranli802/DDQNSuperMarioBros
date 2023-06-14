@@ -22,3 +22,12 @@
  The requirements.txt contains all the software needed for this project.
  
  The runs folder contains all the previous trainings/testings.
+
+
+This is the recording of training phase. 
+https://github.com/Haoranli802/DDQNSuperMarioBros/assets/104111857/0536a0da-05df-41cc-837e-1d76bc2dcd55
+
+
+This is the recording of testing phase. 
+https://github.com/Haoranli802/DDQNSuperMarioBros/assets/104111857/7344fef9-f401-404e-a110-1f27b1b2281b
+
