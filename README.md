@@ -9,5 +9,16 @@
  
  Then run the main part, and the result will be stored in the run folder as a new run.
  
- The Agent contain the DDQN model for the super mario bros AI. The network contain the self-implemented 3-layer Conv2d network beacuse
- we are gathering information for a 2-Dimension game. The env file contains the environment simplification for the super mario bros game.
+ File Explanation:
+ 
+ The agent.py contains the DDQN model for the super mario bros AI. 
+ 
+ The network.py contains the self-implemented 3-layer Conv2d network .
+ 
+ The super_mario_env.py file contains the environment reduction simplification for the network.
+ 
+ The train.py contains the training process with logging and parsing.
+ 
+ The requirements.txt contains all the software needed for this project.
+ 
+ The runs folder contains all the previous trainings/testings.
