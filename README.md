@@ -3,9 +3,9 @@
  
  To run this project: 
  
- First go the the requirements.txt file and make sure you have pip installed all the required packages. 
+ First, go to the requirements.txt file and make sure you have pip installed all the required packages. 
  
- Then, go the train.py and modify the training parameters in the parse_opt function. 
+ Then, go to the train.py and modify the training parameters in the parse_opt function. 
  
  Then run the main part, and the result will be stored in the run folder as a new run.
  
@@ -13,7 +13,7 @@
  
  The agent.py contains the DDQN model for the super mario bros AI. 
  
- The network.py contains the self-implemented 3-layer Conv2d network .
+ The network.py contains the self-implemented 3-layer Conv2d network.
  
  The super_mario_env.py file contains the environment reduction simplification for the network.
  
@@ -21,4 +21,9 @@
  
  The requirements.txt contains all the software needed for this project.
  
- The runs folder contains all the previous trainings/testings.
+ The runs folder contains all the previous training/testing.
+
+
+ Training Video: https://youtu.be/zXMEaP33W0Y
+
+ Testing Video: https://youtu.be/eORpPwvvC88
